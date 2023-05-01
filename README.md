@@ -14,9 +14,20 @@ To build this project, I used the following technologies:
 - JavaScript: to handle the functionality of the live counter and API calls.
 - Azure Functions: to host the API used for the live counter.
 - Azure DevOps: for version control and CI/CD pipeline management.
+- Azure Storage: to store the website files.
+- Azure Cosmos DB: to store the data submitted through the contact form.
 
-# How to Use
-To use this project, you can simply clone the repository and open the index.html file in a web browser. The live counter will automatically update each time the page is visited.
+# Getting Started
 
-# Acknowledgements
-I would like to thank Microsoft for providing the Azure Resume Challenge as an opportunity to gain practical experience with Azure cloud technologies. Additionally, I would like to thank the open source community for providing resources and support throughout the development of this project.
+To get started with the Azure Resume Challenge, you will need to follow the steps below:
+
+- Fork this repository to your GitHub account.
+- Create a new Azure account or use an existing one.
+- Choose the Azure services you want to use to build and deploy your website. Some popular services include Azure App Service, Azure Functions, Azure Storage, and Azure Cosmos DB. You can use any combination of services you like.
+- Build your website using HTML, CSS, and JavaScript.
+- Deploy your website to Azure.
+- Add your website URL to your resume or LinkedIn profile.
+
+# Conclusion
+
+This project has helped me gain valuable experience with Azure technologies and build a website that showcases my skills and experience. I hope this project will help me stand out to potential employers and further my career in the tech industry.
