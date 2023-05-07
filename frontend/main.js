@@ -4,11 +4,12 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
 
 // const localApi = 'http://localhost:7071/api/GetResumeCounter';
-const functionApi = 'http://localhost:7071/api/GetResumeCounter'; 
+const functionApiUrl = 'https://getresumecounterforsule.azurewebsites.net/api/GetResumeCounter?code=3H7z_0N1OipTnV8zkfmfuFmf2uYn4mEXXx4EaXB1TFffAzFuni7EBw=='; 
+const localfunctionApi = 'http://localhost:7071/api/GetResumeCounter'; 
 
 const getVisitCount = () => {
     let count = 30;
-    fetch(functionApi)
+    fetch(functionApiUrl)
     .then(response => {
         return response.json()
     })
