@@ -5,7 +5,7 @@
 This project was created as part of the Azure Resume Challenge, a learning opportunity for individuals to gain practical experience with Azure cloud technologies while building a project that showcases their skills.
 
 # Overview
-For this project, I built a web page to showcase my professional skills and experience. The page includes a brief introduction about myself, my skills, and work experience. Additionally, the page displays a live counter of how many times the page has been visited.
+For this project, I built a [web page](https://www.suleimanumar.me/) to showcase my professional skills and experience. The page includes a brief introduction about myself, my skills, and work experience. Additionally, the page displays a live counter of how many times the page has been visited.
 
 # Technologies Used
 To build this project, I used the following technologies:
