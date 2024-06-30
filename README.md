@@ -1,33 +1,20 @@
 # Azure Resume Challenge Project
 
-## My own azure resume, following [ACG project video.](https://www.youtube.com/watch?v=ieYrBWmkfno&list=RDCMUCp8lLM2JP_1pv6E0NQ38pqw&start_radio=1&t=287s&ab_channel=ACloudGuru)
+## My Azure Resume Following [ACloudGuru's Project Video](https://www.youtube.com/watch?v=ieYrBWmkfno&list=RDCMUCp8lLM2JP_1pv6E0NQ38pqw&start_radio=1&t=287s&ab_channel=ACloudGuru)
 
-This project was created as part of the Azure Resume Challenge, a learning opportunity for individuals to gain practical experience with Azure cloud technologies while building a project that showcases their skills.
+This project is part of the Azure Resume Challenge, designed to provide hands-on experience with Azure cloud technologies while creating a project that highlights my skills.
 
-# Overview
-For this project, I built a [web page](https://www.suleimanumar.me/) to showcase my professional skills and experience. The page includes a brief introduction about myself, my skills, and work experience. Additionally, the page displays a live counter of how many times the page has been visited.
+## Overview
+I developed a [web page](https://azureresumesumar.azureedge.net) to showcase my professional skills and experience. The page includes an introduction about myself, my skills, and my work history. It also features a live counter that tracks the number of visits to the page.
 
-# Technologies Used
-To build this project, I used the following technologies:
+## Technologies Used
+This project leverages the following technologies:
 
-- HTML/CSS: for the structure and styling of the web page.
-- JavaScript: to handle the functionality of the live counter and API calls.
-- Azure Functions: to host the API used for the live counter.
-- Azure DevOps: for version control and CI/CD pipeline management.
-- Azure Storage: to store the website files.
-- Azure Cosmos DB: to store the data submitted through the contact form.
+- **HTML/CSS:** For structuring and styling the web page.
+- **JavaScript:** To manage the live counter functionality and API calls.
+- **Azure Functions:** To host the API used for the live counter.
+- **GitHub:** For version control and CI/CD pipeline management.
+- **Azure Storage:** To store the website files.
+- **Azure Cosmos DB:** To track the number of site visits.
 
-# Getting Started
-
-To get started with the Azure Resume Challenge, you will need to follow the steps below:
-
-- Fork this repository to your GitHub account.
-- Create a new Azure account or use an existing one.
-- Choose the Azure services you want to use to build and deploy your website. Some popular services include Azure App Service, Azure Functions, Azure Storage, and Azure Cosmos DB. You can use any combination of services you like.
-- Build your website using HTML, CSS, and JavaScript.
-- Deploy your website to Azure.
-- Add your website URL to your resume or LinkedIn profile.
-
-# Conclusion
-
-This project has helped me gain valuable experience with Azure technologies and build a website that showcases my skills and experience. I hope this project will help me stand out to potential employers and further my career in the tech industry.
+This project demonstrates my ability to integrate various Azure services to create a fully functional, cloud-based web application.
